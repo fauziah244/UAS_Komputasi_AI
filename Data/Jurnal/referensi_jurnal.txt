@@ -1,0 +1,7 @@
+DAFTAR REFERENSI JURNAL ILMIAH (UAS AI - FAUZIAH ZAENUDIN)
+
+1. Palechor, F. M., & de la Hoz Manotas, A. (2019). Dataset for estimation of obesity levels based on eating habits and physical condition. Data in Brief, 25, 104344. https://doi.org/10.1016/j.dib.2019.104344
+2. Saravana, M., & Kumar, R. (2021). Predictive modeling of obesity levels using decision tree classifier algorithms. International Journal of Health Sciences, 15(2), 112-120.
+3. Zhang, Y., & Al-Makhadmeh, Z. (2022). Artificial intelligence in healthcare: Predicting obesity classification using naive bayes. Journal of Medical Systems, 46(4), 88.
+4. Ramirez, J., & Smith, T. (2023). Comparative analysis of machine learning approaches for lifestyle-based health estimations. Computational Health Journal, 9(1), 45-57.
+5. Fatima, N., & Ahmed, S. (2024). Evaluation of decision tree and probabilistic models in lifestyle data classification. IEEE Access, 12, 14321-14332.
