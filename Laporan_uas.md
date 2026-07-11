@@ -1,7 +1,4 @@
-# Laporan Akhir UAS - Komputasi Cerdas / AI
-
-**Nama:** Fauziah Zaenudin  
-**NIM:** 2406061  
+# Laporan Proyek Machine Learning
 
 ## 1. Judul Proyek
 Prediksi Tingkat Obesitas Berdasarkan Kebiasaan Makan dan Kondisi Fisik Menggunakan Algoritma Decision Tree dan Naive Bayes.
