@@ -3,13 +3,30 @@
 **Nama:** Fauziah Zaenudin  
 **NIM:** 2406061  
 
-Repositori ini dibuat untuk memenuhi tugas UAS mata kuliah Kecerdasan Buatan / Komputasi Cerdas menggunakan algoritma Machine Learning.
+## Deskripsi Proyek
+Proyek ini dibuat untuk memenuhi tugas UAS mata kuliah Kecerdasan Buatan.
+Prediksi Tingkat Obesitas Menggunakan Algoritma Decision Tree dan Naive Bayes
+Proyek ini bertujuan untuk memprediksi tingkat obesitas berdasarkan karakteristik individu dan gaya hidup menggunakan metode machine learning. Dataset diperoleh dari Kaggle dan diproses melalui tahapan Business Understanding, Data Understanding, EDA, Data Preparation, Modeling, dan Evaluation. Model yang digunakan adalah Decision Tree dan Naive Bayes, kemudian dibandingkan menggunakan metrik Accuracy, Precision, Recall, dan F1-Score untuk menentukan model terbaik.
+
+### Algoritma yang Digunakan
+
+* Decision Tree
+* Naive Bayes
 
 ## 📁 Struktur Repositori
-* `Data/Dataset/` : Berisi file dataset mentah berbentuk `.csv`.
-* `Data/Jurnal/` : Berisi dokumen teks berisi minimal 5 referensi jurnal ilmiah terkait.
-* `uas_model.ipynb` : File notebook kodingan pemodelan (Decision Tree & Naive Bayes).
-* `Laporan_uas.md` : Dokumen laporan akhir komplit dari bab 1 sampai bab 9.
+UAS-KecerdasanBuatan/
+├── README.md
+├── Laporan_uas.md
+├── uas_model.ipynb
+└── data/
+    ├── dataset/
+    │   └── heart.csv
+    └── Jurnal/
+        ├── jurnal_1.pdf
+        ├── jurnal_2.pdf
+        ├── jurnal_3.pdf
+        ├── jurnal_4.pdf
+        └── jurnal_5.pdf
 
 ## 🛠️ Penjelasan Langkah Pengerjaan
 1. **Business & Data Understanding:** Mengidentifikasi masalah tingkat obesitas dan mengunduh dataset resmi dari Kaggle.
