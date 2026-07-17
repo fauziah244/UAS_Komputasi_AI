@@ -14,19 +14,21 @@ Proyek ini bertujuan untuk memprediksi tingkat obesitas berdasarkan karakteristi
 * Naive Bayes
 
 ## 📁 Struktur Repositori
+```text
 UAS-KecerdasanBuatan/
 ├── README.md
 ├── Laporan_uas.md
 ├── uas_model.ipynb
 └── data/
     ├── dataset/
-    │   └── heart.csv
+    │   └── obesity.csv
     └── Jurnal/
         ├── jurnal_1.pdf
         ├── jurnal_2.pdf
         ├── jurnal_3.pdf
         ├── jurnal_4.pdf
         └── jurnal_5.pdf
+```
 
 ## 🛠️ Penjelasan Langkah Pengerjaan
 1. **Business & Data Understanding:** Mengidentifikasi masalah tingkat obesitas dan mengunduh dataset resmi dari Kaggle.
