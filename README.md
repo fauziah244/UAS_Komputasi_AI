@@ -1,4 +1,5 @@
-# UAS Kecerdasan Buatan - Estimasi Tingkat Obesitas
+# UAS Kecerdasan Buatan
+
 
 **Nama:** Fauziah Zaenudin  
 **NIM:** 2406061  
