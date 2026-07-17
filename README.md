@@ -1,5 +1,6 @@
 # UAS Kecerdasan Buatan
 
+Prediksi Tingkat Obesitas Berdasarkan Kebiasaan Makan dan Kondisi Fisik Menggunakan Algoritma Decision Tree dan Naive Bayes.
 
 **Nama:** Fauziah Zaenudin  
 **NIM:** 2406061  
