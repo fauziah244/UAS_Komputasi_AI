@@ -5,8 +5,13 @@
 
 ---
 
-## 1. Judul Proyek
-Prediksi Tingkat Obesitas Berdasarkan Kebiasaan Makan dan Kondisi Fisik Menggunakan Algoritma Decision Tree dan Naive Bayes.
+## Prediksi Tingkat Obesitas Berdasarkan Kebiasaan Makan dan Kondisi Fisik Menggunakan Algoritma Decision Tree dan Naive Bayes.
+## 1. Domain Proyek / Latar Belakang
+Proyek ini bertujuan untuk membangun model kecerdasan buatan yang dapat memprediksi tingkat obesitas seseorang berdasarkan data karakteristik individu dan gaya hidup. Dataset yang digunakan diperoleh dari Kaggle dan berisi berbagai atribut seperti usia, jenis kelamin, tinggi badan, berat badan, riwayat keluarga dengan obesitas, kebiasaan makan, aktivitas fisik, konsumsi air, serta faktor lain yang memengaruhi tingkat obesitas.
+
+Dalam penelitian ini dilakukan beberapa tahapan, yaitu Business Understanding, Data Understanding, Exploratory Data Analysis (EDA), Data Preparation, Modeling, dan Evaluation. Proses pemodelan menggunakan dua algoritma klasifikasi, yaitu Decision Tree dan Naive Bayes, kemudian kinerja kedua model dibandingkan menggunakan metrik Accuracy, Precision, Recall, dan F1-Score untuk menentukan model yang memberikan hasil terbaik.
+
+Hasil dari proyek ini diharapkan dapat membantu dalam mengidentifikasi tingkat obesitas secara lebih cepat dan memberikan gambaran mengenai faktor-faktor yang berpengaruh terhadap kondisi tersebut. Selain itu, proyek ini juga menjadi implementasi penerapan teknik machine learning dalam bidang kesehatan untuk mendukung proses pengambilan keputusan berdasarkan data.
 
 ## 2. Business Understanding
 * **Permasalahan:** Meningkatnya angka obesitas di masyarakat yang memicu berbagai penyakit kronis seperti diabetes dan kardiovaskular. Diperlukan sistem cerdas yang mampu memprediksi tingkat risiko obesitas seseorang secara dini agar dapat dilakukan intervensi kesehatan.
